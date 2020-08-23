@@ -18,4 +18,4 @@ What we are looking to build:
 
 * Community Approval - The community should be able to like or dislike comments.
 
-* Commits - Other users should be able to make suggestions by modifying the repo owner's subchapter manuscript in a way that the owner can accept the changes with the click of a button and have them full integrate into the live chapter.
+* Commits - Other users should be able to make suggestions by modifying the repo owner's subchapter manuscript in a way that the owner can accept the changes with the click of a button and have them fully integrate into the live chapter.
